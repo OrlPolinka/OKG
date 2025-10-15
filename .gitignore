@@ -29,7 +29,6 @@ x86/
 *.build.cs
 
 # Mathcad
-*.xmcd
 *.xmcdz
 *.mcd
 *.mcdx
