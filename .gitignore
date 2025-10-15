@@ -1,0 +1,55 @@
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.cache
+*.db
+*.pdb
+*.obj
+*.log
+*.ipch
+*.aps
+*.ncb
+*.ilk
+*.exp
+*.lib
+*.exe
+*.dll
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.build.cs
+
+# Mathcad
+*.xmcd
+*.xmcdz
+*.mcd
+*.mcdx
+*.bak
+*.tmp
+*.log
+
+# OS-specific
+Thumbs.db
+.DS_Store
+ehthumbs.db
+desktop.ini
+
+# Git internal
+*.orig
+*.swp
+*.lock
+*.rej
+
+# Optional: exclude large folders if present
+node_modules/
+Library/
+Temp/
