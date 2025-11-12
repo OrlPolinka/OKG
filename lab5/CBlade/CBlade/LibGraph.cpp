@@ -2,7 +2,7 @@
 
 //------------------------------------------------------------------------------
 
-CRectD::CRectD()
+CRectD::CRectD()	// прямоугольник
 // Конструктор по умолчанию
 {
 	left = top = right = bottom = 0;
@@ -96,11 +96,11 @@ void SetMyMode(CDC& dc, CRect& RS, CRect& RW)
 	int xwL = RW.left;
 	int ywH = RW.bottom;
 
-	dc.SetMapMode(MM_ANISOTROPIC);
-	dc.SetWindowExt(dsx, dsy);
-	dc.SetViewportExt(dwx, -dwy);
-	dc.SetWindowOrg(xsL, ysL);
-	dc.SetViewportOrg(xwL, ywH);
+	dc.SetMapMode(MM_ANISOTROPIC);	// Анизотропный режим — позволяет задавать разные масштабы по X и Y
+	dc.SetWindowExt(dsx, dsy);		// Размер мировой области
+	dc.SetViewportExt(dwx, -dwy);	// Размер окна (инвертируем Y)
+	dc.SetWindowOrg(xsL, ysL);		// Начало мировой области
+	dc.SetViewportOrg(xwL, ywH);	// Начало окна
 }
 
 //------------------------------------------------------------------------------
@@ -161,7 +161,7 @@ CMatrix CreateRotate2D(double fi)
 // системы координат на угол -fi при фиксированном положении объекта 
 // fi - угол в градусах
 {
-	double fg = fmod(fi, 360.0);
+	double fg = fmod(fi, 360.0);		// Ограничиваем угол до 360°
 	double ff = (fg / 180.0) * M_PI;	// Перевод в радианы
 	CMatrix RM(3, 3);
 	RM(0, 0) = cos(ff);

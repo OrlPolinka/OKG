@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 3a8e648c8fe3bfbb8561ddee21426df0?>
+<?validation-md5-digest af402f8b9f237ff81a9b3a1f6f2fa42b?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -10,12 +10,12 @@
 			<author>viy.viy.leta</author>
 			<company>Parametric Technology Corporation</company>
 			<keywords/>
-			<revisedBy>viy.viy.leta</revisedBy>
+			<revisedBy>user</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>2</revision>
+			<revision>3</revision>
 			<documentID>F90356BC-7835-40E2-B040-572209ED660C</documentID>
-			<versionID>7F848AD9-3537-438D-AE5A-7254D997FF22</versionID>
+			<versionID>634F7262-4FDC-4449-83F1-6D482857E6EC</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -111,13 +111,13 @@
 		</miscellaneous>
 	</settings>
 	<regions>
-		<region region-id="20" left="36" top="21" width="30.75" height="16.5" align-x="53.25" align-y="30" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="20" left="36" top="21" width="27.75" height="16.5" align-x="51" align-y="30" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686716" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335124" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686316" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335884" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -131,17 +131,17 @@
 			</math>
 			<rendering item-idref="1">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="29.25" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="26.25" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="8" left="90" top="21" width="30.75" height="16.5" align-x="107.25" align-y="30" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="8" left="90" top="21" width="29.25" height="16.5" align-x="106.5" align-y="30" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687116" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686516" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335804" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -155,17 +155,17 @@
 			</math>
 			<rendering item-idref="2">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="29.25" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="27.75" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="21" left="36" top="39" width="30.75" height="16.5" align-x="53.25" align-y="48" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="21" left="36" top="39" width="28.5" height="16.5" align-x="51.75" align-y="48" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686716" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335124" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686316" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335884" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -179,17 +179,17 @@
 			</math>
 			<rendering item-idref="3">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="29.25" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="27" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="9" left="90" top="39" width="30.75" height="16.5" align-x="107.25" align-y="48" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="9" left="90" top="39" width="30" height="16.5" align-x="107.25" align-y="48" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687116" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686516" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335804" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -203,17 +203,17 @@
 			</math>
 			<rendering item-idref="4">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="29.25" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="28.5" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="22" left="36" top="57" width="30" height="16.5" align-x="52.5" align-y="66" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="22" left="36" top="57" width="27.75" height="16.5" align-x="51" align-y="66" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686716" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335124" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686316" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335884" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -227,17 +227,17 @@
 			</math>
 			<rendering item-idref="5">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="28.5" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="26.25" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="10" left="90" top="57" width="30" height="16.5" align-x="106.5" align-y="66" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="10" left="90" top="57" width="29.25" height="16.5" align-x="106.5" align-y="66" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687116" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686516" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335804" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -251,17 +251,17 @@
 			</math>
 			<rendering item-idref="6">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="28.5" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="27.75" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="23" left="36" top="75" width="30.75" height="16.5" align-x="53.25" align-y="84" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="23" left="36" top="75" width="29.25" height="16.5" align-x="52.5" align-y="84" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686716" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335124" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686316" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335884" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -275,17 +275,17 @@
 			</math>
 			<rendering item-idref="7">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="29.25" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="27.75" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="11" left="90" top="75" width="30.75" height="16.5" align-x="107.25" align-y="84" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="11" left="90" top="75" width="30.75" height="16.5" align-x="108" align-y="84" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687116" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686516" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335804" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -303,7 +303,7 @@
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="26" left="36" top="105" width="36.75" height="16.5" align-x="54.75" align-y="114" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="26" left="36" top="105" width="36.75" height="16.5" align-x="55.5" align-y="114" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve" subscript="d">φ</ml:id>
@@ -312,7 +312,7 @@
 			</math>
 			<rendering item-idref="9"/>
 		</region>
-		<region region-id="27" left="96" top="98.25" width="54.75" height="27.75" align-x="109.5" align-y="114" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="27" left="96" top="98.25" width="54" height="27.75" align-x="109.5" align-y="114" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">φ</ml:id>
@@ -329,7 +329,7 @@
 			</math>
 			<rendering item-idref="10"/>
 		</region>
-		<region region-id="33" left="180" top="135" width="108.75" height="97.5" align-x="221.25" align-y="186" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="33" left="180" top="135" width="106.5" height="97.5" align-x="219" align-y="186" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve" subscript="ABCD">Y</ml:id>
@@ -355,7 +355,7 @@
 			</math>
 			<rendering item-idref="11"/>
 		</region>
-		<region region-id="28" left="42" top="141" width="108.75" height="97.5" align-x="83.25" align-y="192" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="28" left="42" top="141" width="105.75" height="97.5" align-x="81.75" align-y="192" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve" subscript="ABCD">X</ml:id>
@@ -381,13 +381,13 @@
 			</math>
 			<rendering item-idref="12"/>
 		</region>
-		<region region-id="56" left="54" top="273" width="80.25" height="16.5" align-x="70.5" align-y="282" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="56" left="54" top="273" width="78.75" height="16.5" align-x="69.75" align-y="282" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686916" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687476" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335724" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -410,17 +410,17 @@
 			</math>
 			<rendering item-idref="13">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="78.75" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="77.25" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="57" left="150" top="273" width="81" height="16.5" align-x="167.25" align-y="282" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="57" left="150" top="273" width="77.25" height="16.5" align-x="167.25" align-y="282" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687356" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335764" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686876" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230334964" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -443,17 +443,17 @@
 			</math>
 			<rendering item-idref="14">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="79.5" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="75.75" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="58" left="252" top="273" width="116.25" height="16.5" align-x="268.5" align-y="282" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="58" left="252" top="273" width="111.75" height="16.5" align-x="267.75" align-y="282" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687316" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687116" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335684" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -484,17 +484,17 @@
 			</math>
 			<rendering item-idref="15">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="114.75" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="110.25" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="59" left="54" top="309" width="86.25" height="16.5" align-x="70.5" align-y="318" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="59" left="54" top="309" width="84.75" height="16.5" align-x="69.75" align-y="318" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686916" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335764" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687476" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335724" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -517,17 +517,17 @@
 			</math>
 			<rendering item-idref="16">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="84.75" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="83.25" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="60" left="150" top="309" width="81.75" height="16.5" align-x="167.25" align-y="318" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="60" left="150" top="309" width="78" height="16.5" align-x="167.25" align-y="318" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686316" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335804" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687116" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335684" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -550,17 +550,17 @@
 			</math>
 			<rendering item-idref="17">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="80.25" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="76.5" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="61" left="252" top="309" width="108" height="16.5" align-x="268.5" align-y="318" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="61" left="252" top="309" width="103.5" height="16.5" align-x="267.75" align-y="318" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687356" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335164" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686876" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230334964" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -591,17 +591,17 @@
 			</math>
 			<rendering item-idref="18">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="106.5" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="102" height="15" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="62" left="54" top="334.5" width="87.75" height="35.25" align-x="85.5" align-y="354" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="62" left="54" top="334.5" width="81" height="35.25" align-x="81.75" align-y="354" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686396" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335804" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687476" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335724" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -635,17 +635,17 @@
 			</math>
 			<rendering item-idref="19">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="86.25" height="33.75" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="79.5" height="33.75" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="63" left="198" top="334.5" width="87.75" height="35.25" align-x="229.5" align-y="354" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="63" left="198" top="334.5" width="81" height="35.25" align-x="225.75" align-y="354" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686876" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230334964" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686476" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335764" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -679,17 +679,17 @@
 			</math>
 			<rendering item-idref="20">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="86.25" height="33.75" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="79.5" height="33.75" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="64" left="60" top="381" width="43.5" height="12.75" align-x="72" align-y="390" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="64" left="60" top="381" width="39.75" height="12.75" align-x="70.5" align-y="390" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687316" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230334844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686836" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335804" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -706,21 +706,21 @@
 			</math>
 			<rendering item-idref="21">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="42" height="11.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="38.25" height="11.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="65" left="60" top="414" width="223.5" height="187.5" align-x="60" align-y="414" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="65" left="60" top="414" width="222" height="187.5" align-x="60" align-y="414" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<plot disable-calc="false" item-idref="22"/>
 			<rendering item-idref="23"/>
 		</region>
-		<region region-id="66" left="72" top="639" width="114.75" height="36.75" align-x="85.5" align-y="660" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="66" left="72" top="639" width="113.25" height="36.75" align-x="86.25" align-y="660" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687316" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230334844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686476" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335764" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -749,17 +749,17 @@
 			</math>
 			<rendering item-idref="24">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="113.25" height="35.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="111.75" height="35.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="67" left="228" top="639" width="90" height="36.75" align-x="241.5" align-y="660" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="67" left="228" top="639" width="87.75" height="36.75" align-x="240.75" align-y="660" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686356" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230336044" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687116" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -790,17 +790,17 @@
 			</math>
 			<rendering item-idref="25">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="88.5" height="35.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="86.25" height="35.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="68" left="72" top="693" width="104.25" height="36.75" align-x="102" align-y="714" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="68" left="72" top="693" width="103.5" height="36.75" align-x="102" align-y="714" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686916" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230334844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687516" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230334924" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -833,17 +833,17 @@
 			</math>
 			<rendering item-idref="26">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="102.75" height="35.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="102" height="35.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="96" left="6" top="750.75" width="197.25" height="53.25" align-x="48.75" align-y="780" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="96" left="6" top="750.75" width="193.5" height="53.25" align-x="48" align-y="780" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686476" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335764" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687476" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230334964" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -888,17 +888,63 @@
 			</math>
 			<rendering item-idref="27">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="195.75" height="51.75" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="192" height="51.75" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="97" left="252" top="754.5" width="138" height="45.75" align-x="288.75" align-y="780" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="98" left="150" top="826.5" width="117.75" height="45.75" align-x="205.5" align-y="852" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687316" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335884" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686316" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230334924" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash/>
+					</parentRef>
+					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
+					<contentHash xmlns="http://schemas.mathsoft.com/provenance10">8047a1f8825505a614e85fbe96ad0e5d</contentHash>
+					<ml:define>
+						<ml:function>
+							<ml:id xml:space="preserve" subscript="S">T</ml:id>
+							<ml:boundVars>
+								<ml:id xml:space="preserve">Δx</ml:id>
+								<ml:id xml:space="preserve">Δy</ml:id>
+							</ml:boundVars>
+						</ml:function>
+						<ml:matrix rows="3" cols="3">
+							<ml:real>1</ml:real>
+							<ml:real>0</ml:real>
+							<ml:real>0</ml:real>
+							<ml:real>0</ml:real>
+							<ml:real>1</ml:real>
+							<ml:real>0</ml:real>
+							<ml:apply>
+								<ml:neg/>
+								<ml:id xml:space="preserve">Δx</ml:id>
+							</ml:apply>
+							<ml:apply>
+								<ml:neg/>
+								<ml:id xml:space="preserve">Δy</ml:id>
+							</ml:apply>
+							<ml:real>1</ml:real>
+						</ml:matrix>
+					</ml:define>
+				</ml:provenance>
+			</math>
+			<rendering item-idref="28">
+				<element-image-map>
+					<box left="1.5" top="0.75" width="116.25" height="44.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+				</element-image-map>
+			</rendering>
+		</region>
+		<region region-id="120" left="294" top="826.5" width="132.75" height="45.75" align-x="327.75" align-y="852" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+			<math optimize="false" disable-calc="false">
+				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230336084" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<hash/>
+					</originRef>
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230336244" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -940,65 +986,19 @@
 					</ml:define>
 				</ml:provenance>
 			</math>
-			<rendering item-idref="28">
-				<element-image-map>
-					<box left="1.5" top="0.75" width="136.5" height="44.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
-				</element-image-map>
-			</rendering>
-		</region>
-		<region region-id="98" left="150" top="826.5" width="122.25" height="45.75" align-x="208.5" align-y="852" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
-			<math optimize="false" disable-calc="false">
-				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687196" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
-						<hash/>
-					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686956" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
-						<hash/>
-					</parentRef>
-					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
-					<originComment xmlns="http://schemas.mathsoft.com/provenance10"/>
-					<contentHash xmlns="http://schemas.mathsoft.com/provenance10">8047a1f8825505a614e85fbe96ad0e5d</contentHash>
-					<ml:define>
-						<ml:function>
-							<ml:id xml:space="preserve" subscript="S">T</ml:id>
-							<ml:boundVars>
-								<ml:id xml:space="preserve">Δx</ml:id>
-								<ml:id xml:space="preserve">Δy</ml:id>
-							</ml:boundVars>
-						</ml:function>
-						<ml:matrix rows="3" cols="3">
-							<ml:real>1</ml:real>
-							<ml:real>0</ml:real>
-							<ml:real>0</ml:real>
-							<ml:real>0</ml:real>
-							<ml:real>1</ml:real>
-							<ml:real>0</ml:real>
-							<ml:apply>
-								<ml:neg/>
-								<ml:id xml:space="preserve">Δx</ml:id>
-							</ml:apply>
-							<ml:apply>
-								<ml:neg/>
-								<ml:id xml:space="preserve">Δy</ml:id>
-							</ml:apply>
-							<ml:real>1</ml:real>
-						</ml:matrix>
-					</ml:define>
-				</ml:provenance>
-			</math>
 			<rendering item-idref="29">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="120.75" height="44.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="131.25" height="44.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="99" left="66" top="892.5" width="324.75" height="45.75" align-x="120" align-y="918" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="99" left="66" top="892.5" width="312" height="45.75" align-x="120" align-y="918" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686676" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335204" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686476" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335244" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1063,17 +1063,17 @@
 			</math>
 			<rendering item-idref="30">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="323.25" height="44.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="310.5" height="44.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="100" left="24" top="956.25" width="168.75" height="62.25" align-x="69.75" align-y="990" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="100" left="24" top="956.25" width="166.5" height="62.25" align-x="68.25" align-y="990" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686396" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687516" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230336044" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1106,17 +1106,17 @@
 			</math>
 			<rendering item-idref="31">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="167.25" height="60.75" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="165" height="60.75" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="101" left="234" top="956.25" width="168.75" height="62.25" align-x="279.75" align-y="990" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="101" left="234" top="956.25" width="165.75" height="62.25" align-x="277.5" align-y="990" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686636" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335804" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687316" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335244" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1149,17 +1149,17 @@
 			</math>
 			<rendering item-idref="32">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="167.25" height="60.75" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="164.25" height="60.75" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="107" left="102" top="1038" width="219" height="78.75" align-x="154.5" align-y="1080" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="107" left="102" top="1038" width="216" height="78.75" align-x="153.75" align-y="1080" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686356" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335164" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687116" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230334844" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1194,17 +1194,17 @@
 			</math>
 			<rendering item-idref="33">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="217.5" height="77.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="214.5" height="77.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="113" left="108" top="1140" width="219" height="78.75" align-x="160.5" align-y="1182" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="113" left="108" top="1140" width="213.75" height="78.75" align-x="159" align-y="1182" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328687196" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230335724" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="328686396" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="6FEC96D9-FAD6-460A-972F-35B2ACC64615" version-id="6BD4CB2C-A49E-4DCD-8C3F-B94CDBEDDF2A" branch-id="00000000-0000-0000-0000-000000000000" revision-num="230334964" is-modified="false" region-id="0" href="D:\5_sem\OKG\ОКГ_4_5\Лабораторная 4\Задание.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1239,11 +1239,11 @@
 			</math>
 			<rendering item-idref="34">
 				<element-image-map>
-					<box left="1.5" top="0.75" width="217.5" height="77.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
+					<box left="1.5" top="0.75" width="212.25" height="77.25" expr-idref="1" xmlns="http://schemas.mathsoft.com/worksheet30"/>
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="119" left="102" top="1272" width="264.75" height="199.5" align-x="102" align-y="1272" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="119" left="102" top="1272" width="262.5" height="199.5" align-x="102" align-y="1272" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<plot disable-calc="false" item-idref="35"/>
 			<rendering item-idref="36"/>
 		</region>
@@ -1515,18 +1515,18 @@ wXGEUTiSmTEpEAKvoIKjIknXQXnJ4DeYwM4abhL+g9pKzVWykSxCTU6wQH7alDaUmtaOCMbT
 mo++lttPFFsbNrNKpfYQQLcV9ZyEZqwQI5gc4nAoFRjqO6W0+y9xT9dAwW4N5QVKKrDtbLxS
 592pXLCbQ6FKuhkLZ1Qrtbd8wpd14mlcXShJHApSPhTYHC8c3vv26P6HQvW1XSctt9vxgWrr
 +awjFubK9nuIXqi76IFQzB+IDiZg107//gAAAABJRU5ErkJggg==</item>
-		<item item-id="22" content-encoding="gzip">H4sIAAAAAAAA/4xTzXLSUBQ+N4EkpFD+REpDCyKgKNY2owu7osg4Lqw6uNFVJ4XY4ohgmjrV
-FeMD+ApufATHvePeV8LzEyi68mZO7rnnft/5y0kSABTKCxSbdR3flv++75+MJu/iQOseSmI4
-GYgtxrYHBBsPnh2/8QchW6DPfA3fxtnptDu5EPMTFBMN/SXwEOU5yk3EfsLoNf3yTOsgSkoD
-TWcltwx+EIbB6Pg89BUj91HSsLpi+7W/znF2EAsD33fY4KKkpqwabuknwCxuul9x7xiW7GZC
-dsuWPbHmahjkA/ZHV9oe7AIk2fIdLZpSu+SRobPEukv5dFOUF6ufUxwq49q/8N7K8t7J5NjB
-MIutMV7BDpbchYfQA8i7ud8IzF4RQB5z1z8iYA+g4H7BvGd5uMp33woUXZpcFFZmQ1jFBQuL
-LQmrCJvCKl2ywJGszbIU6mzJXt6WgrcW5VX4/GN5hqoQy9ek3CqaalJulR1fl4N0vC5goyHe
-603ZGzfYa9iM2nofB0Da2lzGaQm1cUvitNB0W1y32HVb2lq/I3W3qZ0vV9u5I0W3l0Xf5QFN
-D92jk8Cbnh69ngRjLzTZW4HmnM09L/SkRZvRHPFo6pGyjbLBQ0rDZXsXo7NH7Ef+jTJNvYqG
-WNYcH1Dl/7cunJth4A18t6fLB4uAFZUB5ag5aQoVJFWURpY5WnTlxOZkidHVHJW4crRZB68M
-5ejMNxmDirWgJxADRLcRw/Q1xDA9iRimpwhDrHXGoJImDIEl3fTT87EfjAbeW2mIxWk/RhnC
-CB8KTj+sHXXzn5VcPfwBAAD//wMA0raP3pwEAAA=</item>
+		<item item-id="22" content-encoding="gzip">H4sIAAAAAAAA/4xTS3PSUBQ+N4EkpFBeIqWhBRFQFGub0YVdUWQcF74GN7rqpBBbHBFMUwd3
+jD/Av+DGn+C4d9z7l/A8AkVX3szJPffc7zuvnCQBQKG8RLFZ1/Ft+R/6/ulo8j4OtO6hJIaT
+gdhibHtAsPHg+clbfxCyBfrM1/BtnJ9Nu5OZmJ+gmGjor4BPUV6g3ETsDKPX9MszraMoKQ00
+nZXcKvhRGAajk4vQV4w8REnD+ood1v46x9lBLAx832GDi5Kasmq4pZ8A87jpfsW9Y1iymwnZ
+LVv2xIarYZCP2B9daQewD5Bky3e0aErtk0eGzhObLuXTTVFerH5OcaiMa//CeyvLeyeTYwfD
+LLbGeA17WHIXHkIPIO/mfiMwe0UAecxd/4SAA4CC+wXznufhKt99K1B0aXJRWJktYRWXLCy2
+JKwibAurdMkCR7I2y1KosyN7eVcK3lmWV+Hzj9UZqkIsX5Nyq2iqSblVdnxdDtLxuoCNhniv
+N2Vv3GCvYTNq630cAGlrcxWnJdTGLYnTQtNtcd1i121pa/2O1N2mdr5ab+eeFN1eFX2XBzQ9
+dI9PA296dvxmEoy90GRvBZpzNve80JMWbUdzxKOpR8ouyhYPKQ2X7c1G54/Yj/wbZZp6FQ2x
+rAU+oMr/b106N8PAG/huT5cPFgErKgPKUQvSFCpIqiiNLAu06MqJLcgSo6sFKnHlaPMOXhnK
+0ZlvMgYVa0lPIAaIbiOG6RuIYXoSMUxPEYZYm4xBJU0YAku66WcXYz8YDbx30hCL036MMoQR
+PhScflg76uY/K7l++AMAAP//AwCqwHi7nAQAAA==</item>
 		<item item-id="23">iVBORw0KGgoAAAANSUhEUgAAASgAAAD6CAYAAAAShtqJAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABFRSURBVHhe7Z2JtawqEABvXBOQ8RiN
 yUwwXhp1xH1tBbrqHP+7swk0bX1gHP2rAQAiBUEBQLQgKACIFgQFANGCoAAgWhAUAEQLggKA
@@ -1726,7 +1726,35 @@ YEV/MEIIUuS2+YdbvdCWY1B3z4cRit6sFkJQgAK5x48QghSxbRPAQ+5D6aHnCHy7GDwEIkBA
 CEowDphiIAQpUtv65wNrHgs9h2NwJZOgJ45J+wYhKNK3PYAQpMhs95/NAD0gBDUoTeUEJuPg
 Rswo2yds8xHZAKgDIdjgpw6YZmLEQ+dZCkAKhKDBLxwwzUR6uAV0gRAw+OYDppnsOdwCukAI
 APh5ns//ATZrSsvsNXfrAAAAAElFTkSuQmCC</item>
-		<item item-id="28">iVBORw0KGgoAAAANSUhEUgAAALEAAAA9CAYAAADiW4hmAAAAAXNSR0IArs4c6QAAAARnQU1B
+		<item item-id="28">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</item>
+		<item item-id="29">iVBORw0KGgoAAAANSUhEUgAAALEAAAA9CAYAAADiW4hmAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAY0SURBVHhe7Z3LdaMwFIbdwPQxNbiL
 aYKTHiab7LOgi+yzYDXpIdscVukgHTD6JQSSfAXCgB7W/c5xAjaP+/h1JdtSchkYpnCqFXHf
 tUPb9eMekztL+apSxF3TDE037jDF0Hcib+2tkKsTcd/mI+Cfn59xqzyS2S6EfHWEXJeI+3a4
@@ -1758,34 +1786,6 @@ hxx8CBPxPLOuEhH7pxIeCYJvJrxUEaf2IUzEojCNizQqEbEKzNm5YBEfQ5CIjfc51YhYROb8
 ZPCY+BBCRDwt2BXUI+IoQwrnnT25JjF30vuwLmL7PU5FIhagCzq7rMiPpfhz4rtBTyDv7f+Y
 zazCoC4RC/DZ4tk6Zk5EiNz9uLQ6EYOuYSGXSE8IGFQpYtB37dB2pfb39dG3/nxVK2LmURiG
 /9H/PSYAYF/PAAAAAElFTkSuQmCC</item>
-		<item item-id="29">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</item>
 		<item item-id="30">iVBORw0KGgoAAAANSUhEUgAAAaAAAAA9CAYAAADrub1wAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAApISURBVHhe7Z3LsZtKEIZPAs7jxKAs
 nITKOdyzOXsvyMIZsLJz8NallTNwBtzpeUAD8+geBgmh/6uiSgLU8+ie/mdAQm8DAAAA8AAg
@@ -1998,17 +1998,17 @@ A1yABMfarc+u0Il4buQQOsAVyE8Er4TCntCJfZ4jCB3gEtZvsbaHTtwzI4fQAa5CboHmwkFN
 639gz59nbrwnpZcjCB3gQuSzNAmdknUqlGLejvcROsDFNNUxwdNuCBxB6AAX1DZ1VzfpgeG0
 9fblCR0AGXXdf4U2GoXZNnb2AAAAAElFTkSuQmCC</item>
 		<item item-id="35" content-encoding="gzip">H4sIAAAAAAAA/4xTy27TUBCdsRO/mjRpISmNQxwaSHhIiBo2dJWGCLHgIaWbsopcx7RGhATX
-hbCLWPEXsGDFB7BHSPwLX1HmzrhpgA3XGs/cmTOPe3RvAQCQZI/EYVunvxW9GUSH8eR1HtS6
-R2KPJqH4cuy7r2Dj8NnByyhM2QMDztfobxwfTXuTmbgfk5jkGCyAT0g+knw2AH5R96/m+V6t
-d6KolKbzdOuL5rtpmsQHJ2mEjNghKcHyyu1s/bHPc4FcmkSRyw6fpDhl0/A3vwPM86b/iXTX
-sESbtmjLEW2v+Bo1eUv86KhtwzZAgT3fyKMhckWGzu1VX83TK6q52PxQ5FZl3/lBcWuNdbe8
-zgVGa0SN8Rxuwy704AH0AS5w4AsFbEsFfurD8yBclGiZTqS/pyifoyK9zaqMW9kQXb0kY2/w
-kHcANmXoxR5qklh1ZegaueoydI2HviybCm8aAjY8qd5oivauSJdmRs5dgC3p0+Q+6u60JNW7
-Kn1a5LompVtcui3kNDpCTvu6kNNR5Owvk3NDjt9R5Oz/Q85NibYVObMzcm7xhSyN/OFhEkyP
-hi8myThITe6rDmazux+kgdyX2uLu0dKz19HKAsg7J5jFxw+5jryFurrlmGFlndIHWP9/71lx
-M02CMPL7OofcDOhhGdBFwrk6IlmURZaGfKfrNqKObo4KeZhT0VMy8uhq8y6lGujqXMNkDBmW
-VPDQJgx199AhDKevEIbTC4Th9KLCqKxVxpBRUhgFlpFLT0/GURKHwSshxeLRH5GMIKZPNVeP
-1MkY/WsVlje/AQAA//8DADNxo22QBAAA</item>
+hbCLWPEXsGDFB7BHSHwKv1HmzrhpgA3XGs/rzOOO5hYAAIn2iByWdfpb0ZtBdBhPXudBnXtE
+9mgSii3HtvsKNg6fHbyMwpQtMOB4jf7G8dG0N5mJ+TGRSYbBAviE6CPRZwPgF1X/ap7r6rzL
+mtJA01lYXxTfTdMkPjhJI2TkDlEJlk9uZ+sPPc8JcmkSRS4bfKLilEXD3/wOMM+b/ifiXcMS
+btrCLUe4veJrVOQtzUdHbRu2AQps+UYWDZEzMnRur/qqn15R9cXihyKXKvvOD/Jba8y75XVO
+MFqj0RjP4TbsQg8eQB/gAju+kMO2lOOnPjx3wkXxlulG+nvy8j0qUtusSruVDeHVS9L2Bjd5
+B2BTml7oUJPAqitN18hUl6Zr3PRlUSqsNARseJK90RTuXZEqzWw4dwG2pE6T66jdaUmod1Xq
+tMh0TVK3OHVbhtPoyHDa12U4HTWc/eXh3JDrd9Rw9v8Zzk3xttVwZmfDucULWRr5w8MkmB4N
+X0yScZCaXFddzGZzP0gD2Zdatjcqit+CWp9W5kDWnGAWHz/kPPIW6mrLMcPKOaUPsP7/1rPk
+ZpoEYeT3dXa5GdDDMqCLhHN1RJIoiiQNeafrNqKObo4SeZhT3lMS8uhq8y6FGujqnMNkDAmW
+ZPDQJgxV99AhDIevEIbDC4Th8KLCqKhVxpBQUhgFlpZLT0/GURKHwSsZisWtPyIaQUyfKq4e
+qZNN9K9TWFZ+AwAA//8DAA6JYaqQBAAA</item>
 		<item item-id="36">iVBORw0KGgoAAAANSUhEUgAAAV4AAAEKCAYAAABaND37AAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABR5SURBVHhe7d3LkZtAEMZxxaWAKAfh
 IDg7AWfAzWfH4NLJGTgDTAMtDc9FPHpmWv9f1dgr9KKB+XY0i6RbDQAwRfACgDGCFwCMEbwA

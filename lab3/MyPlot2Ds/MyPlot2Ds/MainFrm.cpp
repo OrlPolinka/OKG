@@ -4,7 +4,7 @@
 
 #include "pch.h"
 #include "framework.h"
-#include "CBlade.h"
+#include "MyPlot2Ds.h"
 
 #include "MainFrm.h"
 
@@ -23,9 +23,9 @@ END_MESSAGE_MAP()
 static UINT indicators[] =
 {
 	ID_SEPARATOR,           // индикатор строки состояния
-	ID_INDICATOR_CAPS,		// индикатор Caps Lock
-	ID_INDICATOR_NUM,		// индикатор Num Lock
-	ID_INDICATOR_SCRL,		// индикатор Scroll Lock
+	ID_INDICATOR_CAPS,
+	ID_INDICATOR_NUM,
+	ID_INDICATOR_SCRL,
 };
 
 // Создание или уничтожение CMainFrame
@@ -44,12 +44,25 @@ int CMainFrame::OnCreate(LPCREATESTRUCT lpCreateStruct)
 	if (CFrameWnd::OnCreate(lpCreateStruct) == -1)
 		return -1;
 
+	if (!m_wndToolBar.CreateEx(this, TBSTYLE_FLAT, WS_CHILD | WS_VISIBLE | CBRS_TOP | CBRS_GRIPPER | CBRS_TOOLTIPS | CBRS_FLYBY | CBRS_SIZE_DYNAMIC) ||
+		!m_wndToolBar.LoadToolBar(IDR_MAINFRAME))
+	{
+		TRACE0("Не удалось создать панель инструментов\n");
+		return -1;      // не удалось создать
+	}
+
 	if (!m_wndStatusBar.Create(this))
 	{
 		TRACE0("Не удалось создать строку состояния\n");
 		return -1;      // не удалось создать
 	}
 	m_wndStatusBar.SetIndicators(indicators, sizeof(indicators)/sizeof(UINT));
+
+	// TODO: Удалите эти три строки, если не собираетесь закреплять панель инструментов
+	m_wndToolBar.EnableDocking(CBRS_ALIGN_ANY);
+	EnableDocking(CBRS_ALIGN_ANY);
+	DockControlBar(&m_wndToolBar);
+
 
 	return 0;
 }

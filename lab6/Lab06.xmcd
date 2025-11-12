@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest a56a7633f199d926467265526ce1b39f?>
+<?validation-md5-digest 8017459e25122956500b898630dba35e?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -10,12 +10,12 @@
 			<author>Пользователь Windows</author>
 			<company>Parametric Technology Corporation</company>
 			<keywords/>
-			<revisedBy>viy.viy.leta</revisedBy>
+			<revisedBy>user</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>9</revision>
+			<revision>10</revision>
 			<documentID>9C9B2F8D-DBBA-45AE-BD92-12A217F81A32</documentID>
-			<versionID>899F0081-B903-4427-B997-F1EEC20078AA</versionID>
+			<versionID>42DDC229-3723-4F23-A6BE-3ED08EA57095</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -114,7 +114,7 @@
 		</editor>
 		<fileFormat image-type="image/png" image-quality="75" save-numeric-results="true" exclude-large-results="false" save-text-images="false" screen-dpi="96"/>
 		<miscellaneous>
-			<handbook handbook-region-tag-ub="36315" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="4294967295"/>
+			<handbook handbook-region-tag-ub="36352" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="4294967295"/>
 		</miscellaneous>
 	</settings>
 	<regions>
@@ -123,7 +123,7 @@
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="left" list-style-type="inherit" tabs="inherit">Координаты вершин пирамиды (C, B, A, C1, B1, A1), параметры положения камеры: </p>
 			</text>
 		</region>
-		<region region-id="33412" left="30" top="50.25" width="105" height="62.25" align-x="51.75" align-y="84" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="33412" left="30" top="50.25" width="103.5" height="62.25" align-x="51.75" align-y="84" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">PIR</ml:id>
@@ -170,7 +170,7 @@
 			</math>
 			<rendering item-idref="3"/>
 		</region>
-		<region region-id="33393" left="30" top="112.5" width="184.5" height="45.75" align-x="48" align-y="138" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="33393" left="30" top="112.5" width="159" height="45.75" align-x="48.75" align-y="138" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define warning="WarnRedefinedBIUnit" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">pC</ml:id>
@@ -197,7 +197,7 @@
 			</math>
 			<rendering item-idref="4"/>
 		</region>
-		<region region-id="34958" left="210" top="112.5" width="189.75" height="45.75" align-x="233.25" align-y="138" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="34958" left="210" top="112.5" width="163.5" height="45.75" align-x="233.25" align-y="138" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">pC1</ml:id>
@@ -224,7 +224,7 @@
 			</math>
 			<rendering item-idref="5"/>
 		</region>
-		<region region-id="34947" left="30" top="160.5" width="184.5" height="45.75" align-x="48" align-y="186" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="34947" left="30" top="160.5" width="159" height="45.75" align-x="48.75" align-y="186" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">pB</ml:id>
@@ -251,7 +251,7 @@
 			</math>
 			<rendering item-idref="6"/>
 		</region>
-		<region region-id="33397" left="210" top="160.5" width="189.75" height="45.75" align-x="233.25" align-y="186" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="33397" left="210" top="160.5" width="163.5" height="45.75" align-x="233.25" align-y="186" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">pB1</ml:id>
@@ -278,7 +278,7 @@
 			</math>
 			<rendering item-idref="7"/>
 		</region>
-		<region region-id="34950" left="30" top="208.5" width="185.25" height="45.75" align-x="48.75" align-y="234" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="34950" left="30" top="208.5" width="160.5" height="45.75" align-x="50.25" align-y="234" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define warning="WarnRedefinedBIUnit" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">pA</ml:id>
@@ -305,7 +305,7 @@
 			</math>
 			<rendering item-idref="8"/>
 		</region>
-		<region region-id="35006" left="210" top="208.5" width="189.75" height="45.75" align-x="233.25" align-y="234" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="35006" left="210" top="208.5" width="165" height="45.75" align-x="234.75" align-y="234" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">pA1</ml:id>
@@ -494,10 +494,10 @@
 		<region region-id="33102" left="42" top="495" width="27.75" height="16.5" align-x="57" align-y="504" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259452" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179907956" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228257892" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179909556" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -518,10 +518,10 @@
 		<region region-id="33103" left="96" top="495" width="29.25" height="16.5" align-x="112.5" align-y="504" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259652" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179908076" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259812" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179909836" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -860,10 +860,10 @@
 		<region region-id="36205" left="24" top="844.5" width="102.75" height="45.75" align-x="45" align-y="870" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259732" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179909916" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259252" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179907956" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1060,10 +1060,10 @@
 		<region region-id="36213" left="24" top="1036.5" width="97.5" height="45.75" align-x="45" align-y="1062" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259172" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179909436" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259572" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="3C91956F-0D3F-45B8-B209-6A4282C5C2CF" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179909236" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1438,10 +1438,10 @@
 		<region region-id="36222" left="30" top="1448.25" width="189" height="62.25" align-x="60" align-y="1482" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259212" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179907476" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259412" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179908876" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1575,10 +1575,10 @@
 		<region region-id="36224" left="30" top="1624.5" width="340.5" height="45.75" align-x="61.5" align-y="1650" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259812" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179908316" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259292" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179907996" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2194,10 +2194,10 @@
 		<region region-id="36248" left="36" top="2302.5" width="201.75" height="45.75" align-x="64.5" align-y="2328" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259292" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179909716" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259812" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179909396" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2237,10 +2237,10 @@
 		<region region-id="36249" left="36" top="2352.75" width="225.75" height="53.25" align-x="114" align-y="2382" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259012" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179908876" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="228259692" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="76804E8E-4D18-43B2-9711-FC355001B89A" version-id="DF8E5F1C-F24F-46A6-9CAF-BFE8710E42DC" branch-id="00000000-0000-0000-0000-000000000000" revision-num="179908716" is-modified="true" region-id="0" href="D:\4SEMESTR\КГиГ+\Lab_4.1\5.5_СЕЧЕНИЕ.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2554,7 +2554,7 @@
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">- вектор внешней нормали к грани AA1C1C</p>
 			</text>
 		</region>
-		<region region-id="36323" left="30" top="2907" width="199.5" height="61.5" align-x="60" align-y="2940" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="36323" left="30" top="2907" width="159" height="61.5" align-x="59.25" align-y="2940" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">A1B1</ml:id>
@@ -2608,7 +2608,7 @@
 			</math>
 			<rendering item-idref="85"/>
 		</region>
-		<region region-id="36324" left="210" top="2907" width="199.5" height="61.5" align-x="240" align-y="2940" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="36324" left="210" top="2907" width="159" height="61.5" align-x="239.25" align-y="2940" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">A1C1</ml:id>
@@ -5101,17 +5101,17 @@ l2tqfj4OgwoRrUu7LkwyiCzGgSiq9dv9MEM4XlsPFgLZduT4dGSGFaLqxg1TaWuk6RcNNek3
 Nzy2LuPVY2g5Pjw74wpROdQo3VNiHm/1H19lLF9y2FpnOVUuR437z8HAQiTQlRmm8o5rGM62
 rT+HREM/YwuRGGp+6EDOtq3/BmpQj+wSn4HhhQhGmB8S8sidV/tonEKI4Mj5ISGPknm1j8Zp
 hCgIr8s0/Q9cAlQfXiMwbgAAAABJRU5ErkJggg==</item>
-		<item item-id="78" content-encoding="gzip">H4sIAAAAAAAA/4xTy27TUBCd67fdJA4kgbR2GtIG2CFksYCuSqlQFzyksKBdVa5jWiNCguui
-sAvs+QTEhl+APeLDwjwcU1hxrfHMHJ8zd+bmpgYACu0Fmsexjm8nfTdKT7PpWxNo3UNzx9NE
-MIOxB0SbJM9PXqdJwQiMWK/h2zo/m+1N5wI/QbMRGFXEp2j30eZ1gI+4+/fGn5zWl8/iNdB0
-7u5qtfnDosizk4siVczYQfPh8jJ2tv7KTS5gFHmaBgxEaPUZh1a0/hNgYdrRV/S7liPedsU7
-nnh3LdJwkzGej2l8gDs40UuAGoPfKvCAQKizZOE2IuprjwbyOfwkszUj7xd+d65IySYOqY5w
-QCmGqa4dwSNitqSS3ZYmWh3x7WtMfd8hpboLcJ3zH1UOXRG216WFLkIb0kKXWwgkaXESCtnq
-SfVwU3yvL/1t0nTz1XQ3pMsK5HOAgZTobcl+A4S2ZYsBbzGUkcObUnJIjR4C3JJiQxr5UEa+
-zZfHH0fHp3k8Ozt+Nc0ncWFzlQ7dQYb34yKW33YDVvcEl17e5G1qiWPKvHienT/mOnJvQ7qR
-quTKWuIDKvx/dFXcLvI4SaN9Xc61JPZVE1SglhQpDFDUV5oKdJT2la4CY0mIQZ+WGJgq0Ba7
-+MkiDqls5mDgrOQucljuIYfla8hheQ05LK8Th1QN5mDgE4fI0q7/7GKS5lkSv5EDcbjtA7Qx
-ZPjo5Z/JK0/zn1W7nPwGAAD//wMARPN7MDgEAAA=</item>
+		<item item-id="78" content-encoding="gzip">H4sIAAAAAAAA/4xTS2/TQBCe9dtuEgeSQFo7DWkD3BCyOEBPpVSoBx5SONCeKtcxrREhwXVR
+uAXu/ATEhb8Ad8QPC/NwTOHEWuOd+fx9szO76xoAKLQXaB77Or6d9N0oPc2mb02gcQ/NHU8T
+wQzGHhBtkjw/eZ0mBSMwYr2Gb+v8bLY3nQv8BM1GYFQRn6LdR5vXAT7i6t8bf2IaXz5LURpo
+OjtXq8UfFkWenVwUqWLmDpoPl4exs/VXbHICo8jTNGAgQqvP2LWi9Z8AC9OOvuK8azky267M
+jiezuxZpuMgY98c0PsAd7OglQI3BbxV4QCDUWbJwGxHVtUcN+ex+kt6akfcLvztXJGUTm1RH
+2KAkw1DXjuARMVuSyW5LEa2OzO1rTH3fIaW6C3Cd4x9VDF0RttelhC5CG1JCl0sIJGhxEArZ
+6kn2cFPmXl/q26Tu5qvubkiVFcj7AANJ0duS9QYIbcsSA15iKC2HNyXlkAo9BLglyYbU8qG0
+fJsvjz+Ojk/zeHZ2/GqaT+LC5iwduoMM78dFLGe7UZ4xqfje0lFvU0nsU+TF8+z8MeeRexvS
+jVQlV8YSH1Dh/6Or5HaRx0ka7euyryWxr5qgArUkT6GDor7SVKCjtK90FRhLQgz6tETHVIG2
+2MVPFnFIZTMHHWcld5HDcg85LF9DDstryGF5nTikajAHHZ84RJZy/WcXkzTPkviNbIjDZR+g
+jSHDRy9/Jq/czX9G7XLwGwAA//8DAEXr+QE4BAAA</item>
 		<item item-id="79">iVBORw0KGgoAAAANSUhEUgAAAUkAAAE9CAYAAACGOZB/AAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABfSSURBVHhe7Z0LduIwDEVZFwtiPayG
 zbAYJgY0OC4J+cixJN97TmZKCo719PyaAKWnBwAATEJIAgDMQEgCAMxASAIAzEBIAgDMQEgC
@@ -5227,122 +5227,121 @@ T79rnn8mIQAhCbZ5BlvxIQTDvpl8/LDgsc8wzT4F5hWYtj/IAY6FkATzPINLgix9esuihHwx
 JH153KYuj2eZfiwhCUsgJME8t8sn3NYG2+xjp0J32J/9dV/oHEISTJOeTxxfJqczw/FbeKZY
 8tjy1e1hz6bnPSEuhCQY5R1oz/cvfv52yTPU3u9p/ITb6znH8R/pWvrYYn92f4AEIQlhuL3+
 4j6AKoQkhOA+BOSNa2SoACEJADADIQkAMMnj8Q/7HCnLT521pAAAAABJRU5ErkJggg==</item>
-		<item item-id="80" content-encoding="gzip">H4sIAAAAAAAA/4xTy27TUBCd67fdJG5SGmhuwDSFLaosNnRVSoW64CGFBWVVuY5pXRESXLcK
-u4g93wALfgH2iL/gD/iKMA/HFFZcazwz554zc8e5aQCAQnuBFnBs4tvL3g2zk3zy1gZa99H8
-0SQVzGLsAdHG6fPjsywtGYEh6w18O+en073JTOAnaC4Cw5r4FO0zdp01AX4h/2vrT07r50fx
-Bhgmn65TN39YlkV+fFFmihk7aCFcXdbO4K/c5gJWWWSZZiBGa045dOKN7wBz240/od91PPGu
-L94LxPsrsYFNRvh9bOs93MOJXgI0GPxSgwcEQpMlc78V07n2aKCQww8y26qoPBxOvcK8LXy3
-I63aa+I715h3uUY8tQ2wzvm3OoeuCDvXpVEXoRvSqMuNNiRpc9ITsqOleq8vXt+Uwfo0w2w5
-wy05Yg3ytBBJCX1b+kUIbUqLiFsM4uAH7ve2pOSADnoIcEeKYWoah/CImHf5ioSj+OikSKan
-R68nxTgpXa6yTjeN4f2kTOQX7MHyNuAyq/u6Rf05pixIZvn5Y64jt7NP905VXFkLfED1/x9d
-FnfLIkmzeN/kLV0RI7UKSqsFRQoDFEXKUNpEaaRMpa0FIRZtLTCwlTbmu7jlEIdULnMw8JZy
-HzksD5DD8hXksLyBHJY3iUOqFnMwCIlDZDlu+OxinBV5mryRD+LxsQ/QRpDjY1Z/maD6mv+s
-xtXkNwAAAP//AwCfkF3wHgQAAA==</item>
+		<item item-id="80" content-encoding="gzip">H4sIAAAAAAAA/4xTzW7TQBCe9b/dJE5SGtpswLS9V5XFhZ5KVaEeoEjhAJwq1zGtEWlS10Xh
+FnHnGeDAK7R3XoM34CnC/DimcGKt8cx8+307O+t1AwAU2iu0gGMT3152OczO8smFDTQeo/mj
+SSqYxdgToo3Tl6fvs7RkBIasN/DtXJ1PDyYzgZ+juQgMa+ILtG9YddYE+IX8m9afnMbPLwBt
+zA0wTN5dty7+tCyL/PS6zBQz99BCuDusva2/cpsXsMoiyzQDMVpzyqETb/wAmNtu/BX9vuOJ
+d33xXiDeX4kNLDLC87GtT7CDHb0GaDD4vQaPCIQmS+Z+K6Z9HVBDIYefpbe2qDxsTr3FvCN8
+tyulOqviu/eY93GVeGoXYI3z2zqHngi796VQD6F1KdTjQhuSdDjpC9nRsnp/IF4/kMYG1MNs
+2cND2WINcrcQyRL6kdSLENqUEhGX2BJVnzb4BvNtvgjhKD45K5Lp+cm7STFOSpe5a3SfGD5M
+ykS+U7/6XqTiO6h4EazCMWVBMsuvnvE6cgcHdLtUxZWxwAfU4P/R5eJuWSRpFh+aPKUrYqTa
+oLRaUKQwQFGkDKVNlEbKVNpaEGLR1AIDW2ljvo9TDnFI5TIHA28p95HD8gA5LF9BDssbyGF5
+kzikajEHg5A4RJbthsfX46zI0+SDHIjH2z5CG0GOj1n9GEF1mv+Mxt3kNwAAAP//AwCBQCO1
+BAQAAA==</item>
 		<item item-id="81">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
-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</item>
+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
+gg==</item>
 		<item item-id="82">iVBORw0KGgoAAAANSUhEUgAAALwAAABSCAYAAADuB75ZAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAfrSURBVHhe7Z3ptds4DEbdwPSRGtzF
 NOE+0oGq0a/pxMVoAFK0qI0CuICQjXuOTuL3YoqfeEVSax6TYfwQtxP+PQ7TML7nT+2QWk+M

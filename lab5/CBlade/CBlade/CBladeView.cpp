@@ -135,7 +135,9 @@ void CCBladeView::OnLButtonDblClk(UINT nFlags, CPoint point)
 {
     if (BladeVisible && !IsRotating)
     {
-        TimerID = SetTimer(1, 500 / 360, NULL);
+        double angle_speed = (90 * 360) / 60;
+        double time_for_step = 5 * 1000 / angle_speed;
+        TimerID = SetTimer(1, time_for_step, NULL);
         IsRotating = TRUE;
     }
 

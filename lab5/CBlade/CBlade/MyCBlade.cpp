@@ -6,7 +6,7 @@ CBlade::CBlade()
 // Конструктор по умолчанию - задает параметры лопасти
 {
     angle = 0;
-    delta_angle = 5;  // Угол поворота за один шаг (градусы)
+    delta_angle = 5.0;  // Угол поворота за один шаг (градусы)
 
     // Задаем параметры лопасти по умолчанию
     h = 5.0;          // Высота треугольника
@@ -30,7 +30,7 @@ CBlade::CBlade(double height, double angle_phi, double radius)
 // radius - радиус описанной окружности
 {
     angle = 0;
-    delta_angle = 5;
+    delta_angle = 5.0;
 
     h = height;
     phi = angle_phi;
@@ -102,17 +102,19 @@ void CBlade::Draw(CDC& dc)
 // Рисует лопасть в окне (два треугольника)
 // dc - контекст устройства
 {
+
+
     // Матрица поворота вокруг начала координат
-    CMatrix MR = CreateRotate2D(angle);
+    //CMatrix MR = CreateRotate2D(angle);
 
     // Поворачиваем точки
-    CMatrix RotatedPoints = MR * Points;
+    //CMatrix RotatedPoints = MR * Points;
 
     // Матрица преобразования из мировых координат в оконные
     CMatrix MSW = SpaceToWindow(SpaceRect, WinRect);
 
     // Преобразуем в оконные координаты
-    CMatrix WinPoints = MSW * RotatedPoints;
+    //CMatrix WinPoints = MSW * RotatedPoints;
 
     // Создаем перо и кисть для треугольников (КРАСНЫЙ)
     //CPen penRed(PS_SOLID, 2, RGB(255, 0, 0));
@@ -125,23 +127,50 @@ CBrush brushRed(RGB(100, 100, 255));
 CPen* oldPen = dc.SelectObject(&penRed);
 CBrush* oldBrush = dc.SelectObject(&brushRed);
 
-    // Рисуем левый треугольник
-    POINT pts1[3];
-    for (int i = 0; i < 3; i++)
-    {
-        pts1[i].x = (int)WinPoints(0, i);
-        pts1[i].y = (int)WinPoints(1, i);
-    }
-    dc.Polygon(pts1, 3);
 
-    // Рисуем правый треугольник
-    POINT pts2[3];
+    // Рисуем 3 лопасти с шагом 120°
     for (int i = 0; i < 3; i++)
     {
-        pts2[i].x = (int)WinPoints(0, i + 3);
-        pts2[i].y = (int)WinPoints(1, i + 3);
+        double blade_angle = angle + i * 120.0;
+
+        // Матрица поворота для текущей лопасти
+        CMatrix MR = CreateRotate2D(blade_angle);
+
+        // Поворачиваем точки
+        CMatrix RotatedPoints = MR * Points;
+
+        // Преобразуем в оконные координаты
+        CMatrix WinPoints = MSW * RotatedPoints;
+
+        // Рисуем левый треугольник
+        POINT pts1[3];
+        for (int j = 0; j < 3; j++)
+        {
+            pts1[j].x = (int)WinPoints(0, j);
+            pts1[j].y = (int)WinPoints(1, j);
+        }
+        dc.Polygon(pts1, 3);
+
     }
-    dc.Polygon(pts2, 3);
+
+
+    //// Рисуем левый треугольник
+    //POINT pts1[3];
+    //for (int i = 0; i < 3; i++)
+    //{
+    //    pts1[i].x = (int)WinPoints(0, i);
+    //    pts1[i].y = (int)WinPoints(1, i);
+    //}
+    //dc.Polygon(pts1, 3);
+
+    //// Рисуем правый треугольник
+    //POINT pts2[3];
+    //for (int i = 0; i < 3; i++)
+    //{
+    //    pts2[i].x = (int)WinPoints(0, i + 3);
+    //    pts2[i].y = (int)WinPoints(1, i + 3);
+    //}
+    //dc.Polygon(pts2, 3);
 
     // Рисуем центральную окружность (ЗЕЛЕНЫЙ)
     CPen penGreen(PS_SOLID, 2, RGB(0, 200, 0));
