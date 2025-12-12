@@ -18,6 +18,8 @@
 *.lib
 *.exe
 *.dll
+*.zip
+*.rar
 
 # Build output
 bin/
